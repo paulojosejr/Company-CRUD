@@ -4,6 +4,21 @@
       "id": 2,
       "name": "Juliana Pereira",
       "email": "juliperetest@mail.com"
+    },
+    {
+      "name": "Paulo Araújo",
+      "email": "pauloaraujo@mail.com",
+      "id": 3
+    },
+    {
+      "name": "Jõao Silva",
+      "email": "jsilva@mail.com",
+      "id": 4
+    },
+    {
+      "name": "José Pereira",
+      "email": "pereirajose@mail.com",
+      "id": 5
     }
   ]
 }
